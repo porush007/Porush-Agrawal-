@@ -1,176 +1,176 @@
 <div align="center">
 
-# Hi there, I'm Porush Agrawal 👋
+# Porush Agrawal
 
-**Data Scientist · ML Engineer Enthusiast · Python & SQL**
+**Data Science & ML Enthusiast · Python · SQL · Power BI**
 
-*I turn raw data into decisions — one model at a time.*
+*Fresh out of training, building real things with real data.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/porush-agrawal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:porush60@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/porush007)
 ![Profile Views](https://komarev.com/ghpvc/?username=porush007&style=flat-square&color=7F77DD)
 
 </div>
 
 ---
 
-## 🧑‍💻 About me
+## 👋 Hey, I'm Porush
 
-I'm a data scientist with hands-on experience building end-to-end ML pipelines — from raw data ingestion and feature engineering to model deployment and stakeholder reporting.
+I'm a data science graduate currently working as a **Data Scientist Intern at Spinnaker Analytics** — my first real industry experience, and honestly, the best learning curve I could have asked for.
 
-Currently interning at **Spinnaker Analytics**, where I build predictive models using XGBoost and Random Forest, automate Python data pipelines, and translate complex analysis into business-ready insights.
+Over the past 1 year I've gone from coursework to production: cleaning messy 100K+ row datasets, building XGBoost pipelines, and presenting findings to actual stakeholders. Before that, I spent a year at **Boston Institute of Analytics** getting deep into ML, NLP, and Generative AI — and I've been building projects ever since to cement what I've learned.
 
-Pursuing an **MSc in AI & ML at Woolf University**, deepening my foundations in deep learning, NLP, and scalable ML systems.
-
-```python
-about_me = {
-    "name"        : "Porush Agrawal",
-    "role"        : "Data Scientist Intern @ Spinnaker Analytics",
-    "education"   : "MSc AI & ML — Woolf University (2026–ongoing)",
-    "interests"   : ["Predictive Modelling", "NLP", "Generative AI", "MLOps"],
-    "currently"   : "Building with LangChain · Learning dbt · Exploring MLflow",
-    "open_to"     : "Data Analyst / Data Scientist / ML Engineer roles ",
-    "location"    : "Aligarh, India → Open to relocation",
-}
-```
+I'm at the start of my career, learning fast, and looking for my next opportunity.
 
 ---
 
-## 🛠️ Tech stack
+## 🛠️ What I work with
 
-**Core languages**
+```python
+skills = {
+    "languages"      : ["Python", "SQL"],
+    "ml_libraries"   : ["Scikit-learn", "XGBoost", "LightGBM", "Random Forest"],
+    "deep_learning"  : ["TensorFlow", "Keras", "LSTM"],
+    "nlp_genai"      : ["NLP", "Prompt Engineering", "LLM workflows", "HuggingFace"],
+    "data_tools"     : ["Pandas", "NumPy", "Feature Engineering", "EDA"],
+    "visualization"  : ["Power BI", "Tableau", "Streamlit", "Plotly", "Matplotlib"],
+    "big_data"       : ["Apache Spark", "Databricks"],
+    "other"          : ["Git", "GitHub", "Jupyter", "VS Code", "Excel (Advanced)"],
+}
+```
+
+**Languages & tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Machine learning & AI**
+**ML & AI**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat-square)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-purple?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-5C6BC0?style=flat-square)
-
-**Generative AI**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7F77DD?style=flat-square)
 
-**Data & visualization**
+**Visualization & BI**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-**Big data & tools**
+---
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+## 💼 Experience so far
+
+### Data Scientist Intern — Spinnaker Analytics *(Mar 2025 – Mar 2026 · Remote)*
+
+My first industry role. Here's what I've actually done:
+
+- Built automated data cleaning pipelines in Python that cut manual preprocessing time by **40%**
+- Worked on 100K+ row datasets — doing statistical analysis and surfacing patterns for business decisions
+- Trained XGBoost and Random Forest models that improved forecasting accuracy by **15%**
+- Consolidated data from multiple sources into unified reporting dashboards, saving **35% report turnaround time**
+- Learned to present findings to non-technical stakeholders — probably the hardest skill of all
 
 ---
 
-## 📂 Featured projects
+## 📂 Projects I've built
+
+These are the projects where I actually learned by doing. Each one taught me something different.
+
+---
 
 ### 💳 Credit Risk Classification
-> 3-class risk model (Good / Standard / Poor) trained on 100,000 financial records using LightGBM. Resolved severe class imbalance via class-weight tuning — improving high-risk customer detection from **61% → 82%**. Achieved **89% accuracy** and **F1 = 0.88**.
+**What I built:** A 3-class model (Good / Standard / Poor risk) trained on 100,000 financial records.
 
-`Python` `LightGBM` `Scikit-learn` `Feature Engineering` `Class Imbalance`
+**What I learned:** Handling class imbalance the right way. Tuning class weights pushed high-risk detection from 61% → **82%**. Final model hit **89% accuracy, F1 = 0.88**.
+
+`Python` · `LightGBM` · `Scikit-learn` · `Class Imbalance` · `Hyperparameter Tuning`
 
 [→ View project](https://github.com/porush007/credit-risk-classification)
 
 ---
 
-### 🛍️ E-Commerce Customer Segmentation & Cross-Sell Analytics
-> Analysed **500,000+ purchase records** to cluster 4,300+ customers into 5 behavioural cohorts using RFM scoring and K-Means. Found that **15% of customers drove 62% of revenue**. Built a next-purchase propensity model with **85% accuracy**.
+### 🛍️ E-Commerce Customer Segmentation
+**What I built:** RFM scoring + K-Means clustering on 500,000+ purchase records to find 5 customer cohorts. Plus a purchase-propensity model.
 
-`Python` `K-Means` `RFM Analysis` `SQL` `Power BI` `Streamlit`
+**What I learned:** How much insight lives inside raw transactional data when you structure it right. Found that **15% of customers drove 62% of revenue** — a number that actually means something to a business.
+
+`Python` · `K-Means` · `RFM Analysis` · `SQL` · `Power BI` · `Streamlit`
 
 [→ View project](https://github.com/porush007/ecommerce-customer-segmentation)
 
 ---
 
 ### 🚗 Used Car Price Prediction
-> Scraped and cleaned **80,000+ vehicle listings**. Benchmarked 8 regression models — XGBoost won with **R² = 0.94** and **MAE = ₹28,500**. Identified age, mileage, fuel type, and brand as the key pricing drivers.
+**What I built:** Scraped 80,000+ vehicle listings, cleaned the data, and benchmarked 8 regression models.
 
-`Python` `XGBoost` `Scikit-learn` `Web Scraping` `Regression`
+**What I learned:** Model selection isn't about picking the fanciest algorithm — XGBoost won (R² = **0.94**, MAE = ₹28,500) but the real work was in the data cleaning and feature understanding.
+
+`Python` · `XGBoost` · `Scikit-learn` · `Web Scraping` · `Regression`
 
 [→ View project](https://github.com/porush007/used-car-price-prediction)
 
 ---
 
 ### 🏢 Company Bankruptcy Prediction
-> Binary classification model using an Ensemble Voting Classifier with undersampling to handle extreme class imbalance in financial records. Optimised for high recall on at-risk (minority) cases — built for real-world financial early-warning systems.
+**What I built:** Binary classifier using an Ensemble Voting approach to predict firm bankruptcy from financial ratios.
 
-`Python` `Ensemble Methods` `Scikit-learn` `Imbalanced Learning`
+**What I learned:** When your positive class is 5% of the data, accuracy is a useless metric. Learned to optimise for recall and use undersampling properly.
+
+`Python` · `Ensemble Methods` · `Imbalanced Learning` · `Scikit-learn`
 
 [→ View project](https://github.com/porush007/company-bankruptcy-prediction)
 
 ---
 
 ### 📦 Retail Product Cluster Analysis
-> Segmented **50,000+ products** into 6 optimised clusters (Silhouette Score: **0.72**). Generated stocking and pricing recommendations projected to reduce inventory costs by **12%**.
+**What I built:** K-Means segmentation on 50,000+ retail products to inform stocking and pricing strategy.
 
-`Python` `K-Means` `Unsupervised ML` `Business Strategy`
+**What I learned:** Silhouette scores, the elbow method, and how to turn cluster outputs into something a non-data person can actually act on. Score: **0.72** → projected **12% cost reduction**.
+
+`Python` · `K-Means` · `Unsupervised ML` · `Business Storytelling`
 
 [→ View project](https://github.com/porush007/retail-product-clustering)
 
 ---
 
-## 📊 GitHub stats
+## 🎓 Education
 
-<div align="center">
+| | |
+|---|---|
+| **MSc, Computer Science — AI & ML** | Woolf University · Apr 2026 – ongoing |
+| **PG Diploma, Data Science & AI** | Boston Institute of Analytics · 2024–2025 |
+| **BSc, Industrial Chemistry** | Deshbandhu College, Delhi University · 2021–2024 · CGPA 7.96 |
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=porush007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=porush007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
-## 🎓 Education & certifications
-
-| Qualification | Institution | Year |
-|---|---|---|
-| MSc, Computer Science — AI & ML | Woolf University | 2026 – ongoing |
-| PG Diploma, Data Science & AI | Boston Institute of Analytics | 2024 – 2025 |
-| BSc, Industrial Chemistry | Deshbandhu College, University of Delhi | 2021 – 2024 |
-| Apache Spark & Databricks | Databricks Academy | 2024 |
-| Generative AI | Boston Institute of Analytics | 2025 |
+**Certifications:** Apache Spark & Databricks (Databricks Academy) · Generative AI (BIA)
 
 ---
 
-## 🚀 What I'm building next
+## 📈 Currently learning
 
-- 🔗 **LangChain + RAG pipelines** — end-to-end document Q&A systems
-- 🌿 **dbt** — data transformation and modelling for analytics engineering
-- ⚡ **MLflow** — experiment tracking, model registry, and reproducibility
-- 🤗 **HuggingFace PEFT** — fine-tuning lightweight transformers for NLP tasks
+I'm trying to be honest about what I don't know yet and actively working on it:
+
+- 🔗 **LangChain** — building RAG pipelines, not just reading about them
+- 🌿 **dbt** — proper data transformation and modelling
+- ⚡ **MLflow** — experiment tracking so my work is reproducible
+- 📊 **Advanced SQL** — window functions, CTEs, query optimisation
 
 ---
 
-## 🤝 Let's connect
+## 🤝 Let's talk
 
-I'm actively looking for **Data Analyst / Data Scientist / ML Engineer roles**  in fintech, consulting, and analytics-driven companies.
+I'm a fresher with 6 months of real internship experience, actively looking for **Data Analyst or Data Scientist roles** in fintech, consulting, or analytics-driven companies.
 
-Open to referrals, collaborations, or just a good conversation about data.
+I don't have years of experience — but I have strong foundations, real projects, and the hunger to learn fast.
 
-📬 **porush60@gmail.com** · [LinkedIn](https://linkedin.com/in/porush-agrawal) · Aligarh, India → Open to relocation
+📬 **porush60@gmail.com** · [LinkedIn](https://linkedin.com/in/porush-agrawal) · Aligarh, India · Open to relocation
 
 ---
 
 <div align="center">
-
-*"Without data, you're just another person with an opinion."*
-— W. Edwards Deming
-
+<sub>Always learning · Always building</sub>
 </div>
