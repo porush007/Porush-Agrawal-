@@ -142,7 +142,7 @@ These are the projects where I actually learned by doing. Each one taught me som
  
 `Python` · `Pandas` · `Seaborn` · `Probability Analysis` · `Customer Profiling` · `EDA`
  
-[→ View project](https://github.com/porush007/aerofit-eda)
+[→ View project](https://github.com/porush007/AeroFit-Treadmill-Customer-Profiling-EDA)
  
 ---
  
@@ -153,7 +153,7 @@ These are the projects where I actually learned by doing. Each one taught me som
  
 `Python` · `Pandas` · `Matplotlib` · `Seaborn` · `EDA` · `Time-Series Analysis`
  
-[→ View project](https://github.com/porush007/netflix-content-eda)
+[→ View project](https://github.com/porush007/Netflix-Case-Study)
  
 ---
  
